@@ -7,3 +7,6 @@ def multiply_by_two(x):
 
 def divide_by_two(x):
     return divide(x, 2)
+
+def divide_by_three(x):
+    return divide(x, 3)
